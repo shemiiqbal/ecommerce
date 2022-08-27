@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f70a231-a868-4ab5-9efd-83f71b695f73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gVhbBF7qf0ZNxr3XK8U1pXhklB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/user" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views/layout" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views/user" />
+      <recent name="$PROJECT_DIR$/views/admin" />
+      <recent name="$PROJECT_DIR$/views/partials" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="www" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/bin/www" working-dir="$PROJECT_DIR$/bin">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.www" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f70a231-a868-4ab5-9efd-83f71b695f73" name="Default Changelist" comment="" />
+      <created>1598205735748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598205735748</updated>
+      <workItem from="1598205736869" duration="4963000" />
+      <workItem from="1598377781040" duration="22477000" />
+      <workItem from="1598962069570" duration="18158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="177" width="615" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598381199636">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state x="370" y="177" width="615" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.697@0.27.1366.697" timestamp="1598381199636" />
+    <state x="466" y="133" width="424" height="491" key="FileChooserDialogImpl" timestamp="1598377979270">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state x="466" y="133" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.697@0.27.1366.697" timestamp="1598377979270" />
+    <state width="1343" height="162" key="GridCell.Tab.0.bottom" timestamp="1598962650799">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state width="1343" height="162" key="GridCell.Tab.0.bottom/0.27.1366.697@0.27.1366.697" timestamp="1598962650799" />
+    <state width="1343" height="162" key="GridCell.Tab.0.center" timestamp="1598962650797">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state width="1343" height="162" key="GridCell.Tab.0.center/0.27.1366.697@0.27.1366.697" timestamp="1598962650797" />
+    <state width="1343" height="162" key="GridCell.Tab.0.left" timestamp="1598962650795">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state width="1343" height="162" key="GridCell.Tab.0.left/0.27.1366.697@0.27.1366.697" timestamp="1598962650795" />
+    <state width="1343" height="162" key="GridCell.Tab.0.right" timestamp="1598962650798">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state width="1343" height="162" key="GridCell.Tab.0.right/0.27.1366.697@0.27.1366.697" timestamp="1598962650798" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/helpers/user_helper.js</url>
+          <line>31</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
